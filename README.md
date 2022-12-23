@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Mandhotra</h1>
 <h3 align="center">A student learning to program in India 😎</h3>
-<img align="right" alt="elliot" width="400" src="https://media1.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=790b76112e0fcbfd856e673c7bfac3e55bb7252a8556f509&rid=giphy.gif&ct=g" />
+<img align="right" alt="elliot" width="200" height="200" src="https://media1.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=790b76112e0fcbfd856e673c7bfac3e55bb7252a8556f509&rid=giphy.gif&ct=g" />
 
 - 🔭 I’m currently working on **my personal website**
 
