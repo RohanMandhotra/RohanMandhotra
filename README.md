@@ -1,6 +1,6 @@
 ![logo](https://github.com/RohanMandhotra/RohanMandhotra/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rohan Mandhotra</h1>
-<h3 align="center">A student learning to program in India 😎</h3>
+<h3 align="center">A freshmen studying Computer Science at the University of Waterloo😎</h3>
 - 🔭 I’m currently working on **my personal website**
 
 - 🌱 I’m currently learning **C++, React**
